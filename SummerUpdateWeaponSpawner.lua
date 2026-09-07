@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OmgGuysIsUnknownUser/MurderMystery2/refs/heads/main/SummerHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OmgGuysIsUnknownUser/MurderMystery2/refs/heads/main/SummerHubLatest.lua"))()
